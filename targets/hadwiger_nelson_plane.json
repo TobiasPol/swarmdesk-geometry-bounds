@@ -1,0 +1,39 @@
+{
+  "target": "hadwiger_nelson_plane",
+  "kind": "unit_distance",
+  "mode": "chromatic",
+  "claimed_chromatic": 3,
+  "vertices": [
+    [
+      0,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      "1/2",
+      [
+        0,
+        "1/2",
+        0,
+        0
+      ]
+    ]
+  ],
+  "edges": [
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      2
+    ],
+    [
+      1,
+      2
+    ]
+  ]
+}
