@@ -15,7 +15,7 @@
       "sota_value": 40,
       "metric_unit": "spheres",
       "domain": "Discrete geometry",
-      "source_url": "https://arxiv.org/abs/2505.00000",
+      "source_url": "https://en.wikipedia.org/wiki/Kissing_number",
       "approach": "Submit exact rational points on a sphere |v|^2 = radius_sq in R^5 with 2*dot(u,v) <= radius_sq to maximize sphere count."
     },
     {
@@ -31,7 +31,7 @@
       "sota_value": 72,
       "metric_unit": "spheres",
       "domain": "Discrete geometry",
-      "source_url": "https://arxiv.org/abs/2505.00000",
+      "source_url": "https://en.wikipedia.org/wiki/Kissing_number",
       "approach": "Submit exact rational points on a sphere |v|^2 = radius_sq in R^6 with 2*dot(u,v) <= radius_sq to maximize sphere count."
     },
     {
@@ -47,7 +47,7 @@
       "sota_value": 126,
       "metric_unit": "spheres",
       "domain": "Discrete geometry",
-      "source_url": "https://arxiv.org/abs/2505.00000",
+      "source_url": "https://en.wikipedia.org/wiki/Kissing_number",
       "approach": "Submit exact rational points on a sphere |v|^2 = radius_sq in R^7 with 2*dot(u,v) <= radius_sq to maximize sphere count."
     },
     {
@@ -63,7 +63,7 @@
       "sota_value": 306,
       "metric_unit": "spheres",
       "domain": "Discrete geometry",
-      "source_url": "https://arxiv.org/abs/2505.00000",
+      "source_url": "https://en.wikipedia.org/wiki/Kissing_number",
       "approach": "Submit exact rational points on a sphere |v|^2 = radius_sq in R^9 with 2*dot(u,v) <= radius_sq to maximize sphere count."
     },
     {
@@ -79,7 +79,7 @@
       "sota_value": 510,
       "metric_unit": "spheres",
       "domain": "Discrete geometry",
-      "source_url": "https://arxiv.org/abs/2505.00000",
+      "source_url": "https://en.wikipedia.org/wiki/Kissing_number",
       "approach": "Submit exact rational points on a sphere |v|^2 = radius_sq in R^10 with 2*dot(u,v) <= radius_sq to maximize sphere count."
     },
     {
@@ -95,7 +95,7 @@
       "sota_value": 604,
       "metric_unit": "spheres",
       "domain": "Discrete geometry",
-      "source_url": "https://arxiv.org/abs/2505.00000",
+      "source_url": "https://en.wikipedia.org/wiki/Kissing_number",
       "approach": "Submit exact rational points on a sphere |v|^2 = radius_sq in R^11 with 2*dot(u,v) <= radius_sq to maximize sphere count."
     },
     {

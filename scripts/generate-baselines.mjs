@@ -92,7 +92,7 @@ export function generateAll() {
       sota_value: spec.sota,
       metric_unit: "spheres",
       domain: "Discrete geometry",
-      source_url: "https://arxiv.org/abs/2505.00000",
+      source_url: "https://en.wikipedia.org/wiki/Kissing_number",
       approach: `Submit exact rational points on a sphere |v|^2 = radius_sq in R^${spec.d} with 2*dot(u,v) <= radius_sq to maximize sphere count.`,
     });
   }
